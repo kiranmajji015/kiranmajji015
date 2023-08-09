@@ -1,8 +1,8 @@
-[![MasterHead]([https://stock.adobe.com/in/search?k=programmer+cartoon&asset_id=313404541](https://www.freepik.com/premium-vector/cartoon-drawing-penguin-character_32265546.htm#from_view=detail_author)
+[![MasterHead](https://stock.adobe.com/in/search?k=programmer+cartoon&asset_id=313404541
 )]
 <h1 align="center">Hi 👋, I'm Kiran Majji</h1>
 <h3 align="center">A passionate web-developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://www.freepik.com/premium-vector/cartoon-drawing-programmer_20243808.htm)
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1691609899~exp=1691610499~hmac=4c9128e6d81a378a2730e184c2a8ae3ab4a24da7945306dbcf03c10857ba7c46
 "></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranmajji015&label=Profile%20views&color=0e75b6&style=flat" alt="kiranmajji015" /> </p>
