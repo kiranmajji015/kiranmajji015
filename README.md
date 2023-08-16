@@ -1,3 +1,4 @@
+[![MasterHead](https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif)]
 <h1 align="center">Hi 👋, I'm Kiran Majji</h1>
 <h3 align="center">A passionate web-developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> </img>
