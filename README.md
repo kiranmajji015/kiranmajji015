@@ -2,7 +2,8 @@
 )]
 <h1 align="center">Hi 👋, I'm Kiran Majji</h1>
 <h3 align="center">A passionate web-developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1691609899~exp=1691610499~hmac=4c9128e6d81a378a2730e184c2a8ae3ab4a24da7945306dbcf03c10857ba7c46
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/kiranmajji015/kiranmajji015/assets/123876748/4ae17a02-d171-495b-847c-c4623c1b267a)
+
 "></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranmajji015&label=Profile%20views&color=0e75b6&style=flat" alt="kiranmajji015" /> </p>
