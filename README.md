@@ -1,4 +1,4 @@
-<img align="center" display="flex" src="https://media.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif"></img>
+![logo](https://github.com/kiranmajji015/kiranmajji015/blob/main/newgif.gif)
 <h1 align="center">Hi 👋, I'm Kiran Majji</h1>
 <h3 align="center">A passionate web-developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"> </img>
