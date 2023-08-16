@@ -1,4 +1,4 @@
-[![align="center" MasterHead](https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif)]
+<img align="center" display="flex" src="https://media.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif"></img>
 <h1 align="center">Hi 👋, I'm Kiran Majji</h1>
 <h3 align="center">A passionate web-developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"> </img>
