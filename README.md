@@ -1,11 +1,6 @@
-[![MasterHead](https://stock.adobe.com/in/search?k=programmer+cartoon&asset_id=313404541
-)]
 <h1 align="center">Hi 👋, I'm Kiran Majji</h1>
 <h3 align="center">A passionate web-developer from India</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/kiranmajji015/kiranmajji015/assets/123876748/4ae17a02-d171-495b-847c-c4623c1b267a)
-
-"></img>
-
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> </img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranmajji015&label=Profile%20views&color=0e75b6&style=flat" alt="kiranmajji015" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
